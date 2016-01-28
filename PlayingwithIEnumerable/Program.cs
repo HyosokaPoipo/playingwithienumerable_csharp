@@ -52,6 +52,18 @@ namespace PlayingwithIEnumerable
             }
 
 
+            IEnumerable<string> hisokaIEnum3 = from poipo in hisokaList where (poipo.StartsWith("P")) select poipo;
+            Console.WriteLine("\n\nHasil Cara Kedua part 3: ");
+            foreach (string poipo in hisokaIEnum3)
+            {
+                Console.WriteLine(poipo);
+            }
+
+
+
+
+
+
 
                 Console.ReadLine();
 
