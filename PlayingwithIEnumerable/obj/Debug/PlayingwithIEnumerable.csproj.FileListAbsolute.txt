@@ -1,0 +1,6 @@
+E:\C Sharp\SourceCode\Console\PlayingwithIEnumerable\PlayingwithIEnumerable\bin\Debug\PlayingwithIEnumerable.exe.config
+E:\C Sharp\SourceCode\Console\PlayingwithIEnumerable\PlayingwithIEnumerable\bin\Debug\PlayingwithIEnumerable.exe
+E:\C Sharp\SourceCode\Console\PlayingwithIEnumerable\PlayingwithIEnumerable\bin\Debug\PlayingwithIEnumerable.pdb
+E:\C Sharp\SourceCode\Console\PlayingwithIEnumerable\PlayingwithIEnumerable\obj\Debug\PlayingwithIEnumerable.csprojResolveAssemblyReference.cache
+E:\C Sharp\SourceCode\Console\PlayingwithIEnumerable\PlayingwithIEnumerable\obj\Debug\PlayingwithIEnumerable.exe
+E:\C Sharp\SourceCode\Console\PlayingwithIEnumerable\PlayingwithIEnumerable\obj\Debug\PlayingwithIEnumerable.pdb
